@@ -1,4 +1,4 @@
-nginx:lastest
+nginx:latest
 mariadb:10.11
 mysql:5.7
-redis:lastest
+redis:latest
