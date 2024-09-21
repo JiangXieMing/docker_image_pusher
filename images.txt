@@ -1,4 +1,1 @@
-nginx:latest
-mariadb:10.11
-mysql:5.7
-redis:latest
+nacos/nacos-server
