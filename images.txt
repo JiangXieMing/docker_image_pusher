@@ -1,1 +1,3 @@
-gogs/gogs
+rabbitmq:3.12-management
+emqx/emqx:latest
+apache/rocketmq:4.9.0
