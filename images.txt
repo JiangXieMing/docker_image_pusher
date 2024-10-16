@@ -1,3 +1,4 @@
-rabbitmq:3.12-management
-emqx/emqx:latest
-apache/rocketmq:4.9.0
+#rabbitmq:3.12-management
+#emqx/emqx:latest
+#apache/rocketmq:4.9.0
+postgress:latest
