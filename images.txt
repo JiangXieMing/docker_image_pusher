@@ -2,4 +2,5 @@
 #emqx/emqx:latest
 #apache/rocketmq:4.9.0
 #postgres:latest
-confluentinc/cp-kafka:latest
+#confluentinc/cp-kafka:latest
+wurstmeister/kafka
