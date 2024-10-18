@@ -1,4 +1,5 @@
 #rabbitmq:3.12-management
 #emqx/emqx:latest
 #apache/rocketmq:4.9.0
-postgres:latest
+#postgres:latest
+confluentinc/cp-kafka:latest
