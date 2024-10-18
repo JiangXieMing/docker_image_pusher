@@ -3,4 +3,5 @@
 #apache/rocketmq:4.9.0
 #postgres:latest
 #confluentinc/cp-kafka:latest
-wurstmeister/kafka
+#wurstmeister/kafka
+wurstmeister/zookeeper
