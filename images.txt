@@ -4,4 +4,6 @@
 #postgres:latest
 #confluentinc/cp-kafka:latest
 #wurstmeister/kafka
-wurstmeister/zookeeper
+#wurstmeister/zookeeper
+wurstmeister/zookeeper:3.4.6
+wurstmeister/kafka:2.13-2.8.1
