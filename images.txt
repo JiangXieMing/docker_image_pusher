@@ -5,4 +5,5 @@
 #confluentinc/cp-kafka:latest
 #wurstmeister/kafka
 #wurstmeister/zookeeper
-postgres
+#postgres
+mysql:8.0
