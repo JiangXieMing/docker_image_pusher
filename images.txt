@@ -6,4 +6,5 @@
 #wurstmeister/kafka
 #wurstmeister/zookeeper
 #postgres
-mysql:8.0
+#mysql:8.0
+nats-io/nats-server
