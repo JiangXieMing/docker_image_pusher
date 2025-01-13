@@ -7,4 +7,4 @@
 #wurstmeister/zookeeper
 #postgres
 #mysql:8.0
-nats-io/nats-server
+nats
