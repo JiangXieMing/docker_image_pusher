@@ -7,4 +7,5 @@
 #wurstmeister/zookeeper
 #postgres
 #mysql:8.0
-nats
+#nats
+ubuntu:22.04
