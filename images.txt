@@ -10,4 +10,5 @@
 #nats
 #ubuntu:22.04
 #mongo
-influxdb
+#influxdb
+yandex/clickhouse-server
