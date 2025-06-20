@@ -11,4 +11,5 @@
 #ubuntu:22.04
 #mongo
 #influxdb
-yandex/clickhouse-server
+#yandex/clickhouse-server
+tdengine/tdengine
