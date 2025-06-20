@@ -8,4 +8,5 @@
 #postgres
 #mysql:8.0
 #nats
-ubuntu:22.04
+#ubuntu:22.04
+mongo
