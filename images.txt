@@ -9,4 +9,5 @@
 #mysql:8.0
 #nats
 #ubuntu:22.04
-mongo
+#mongo
+influxdb
