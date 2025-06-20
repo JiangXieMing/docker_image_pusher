@@ -12,4 +12,5 @@
 #mongo
 #influxdb
 #yandex/clickhouse-server
-tdengine/tdengine
+#tdengine/tdengine
+tdengine/tdengine-restful-proxy
