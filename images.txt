@@ -13,4 +13,5 @@
 #influxdb
 #yandex/clickhouse-server
 #tdengine/tdengine
-tdengine/tdengine-restful-proxy
+#tdengine/tdengine-restful-proxy
+nodered/node-red
