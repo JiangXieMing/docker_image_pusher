@@ -14,4 +14,5 @@
 #yandex/clickhouse-server
 #tdengine/tdengine
 #tdengine/tdengine-restful-proxy
-nodered/node-red
+#nodered/node-red
+tdengine/tsdb
