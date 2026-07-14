@@ -16,4 +16,4 @@
 #tdengine/tdengine-restful-proxy
 #nodered/node-red
 #tdengine/tsdb
-gogs:latest
+gogs/gogs
